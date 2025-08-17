@@ -20,7 +20,7 @@ It is a simple GUI tool made in **Python (Tkinter)** to perform **Caesar Cipher 
 ---
 
 ## ⚙️ How to Run
-1. download the repository  
-2. Open terminal in the project folder  
-3. Run the script:
-[caesar_cipher.py](https://github.com/93rushikesh/cyber-caesar-cipher-using-Python/blob/main/caesar_cipher.py)
+1. Download the repository (or clone it)
+2. Run the script directly from here:  
+   👉 [caesar_cipher.py](https://github.com/93rushikesh/cyber-caesar-cipher-using-Python/blob/main/caesar_cipher.py)
+
