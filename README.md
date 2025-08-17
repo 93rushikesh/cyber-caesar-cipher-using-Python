@@ -20,8 +20,8 @@ It is a simple GUI tool made in **Python (Tkinter)** to perform **Caesar Cipher 
 ---
 
 ## ⚙️ How to Run
-1. Clone or download the repository  
+1. download the repository  
 2. Open terminal in the project folder  
 3. Run the script:
 ```bash
-python caesar_cipher_gui.py
+[caesar_cipher.py](https://github.com/93rushikesh/cyber-caesar-cipher-using-Python/blob/main/caesar_cipher.py)
