@@ -23,5 +23,4 @@ It is a simple GUI tool made in **Python (Tkinter)** to perform **Caesar Cipher 
 1. download the repository  
 2. Open terminal in the project folder  
 3. Run the script:
-```bash
 [caesar_cipher.py](https://github.com/93rushikesh/cyber-caesar-cipher-using-Python/blob/main/caesar_cipher.py)
